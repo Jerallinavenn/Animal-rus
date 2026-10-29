@@ -1,0 +1,30 @@
+{
+  "status": "EXPERIMENTAL_FONT_TEST_NOT_FULL_TRANSLATION",
+  "source_sha256": "5007b3013bc50d328b9418e53df6f9ea6c6d975b3bb60cce1dac5b2433f8d317",
+  "output_sha256": "2b7135526616cb699654b8f77bb8f3aecd044dbe556c615ae819c854bd278127",
+  "source_bytes": 27573832,
+  "output_bytes": 34045952,
+  "translated_records": 26,
+  "catalog_records": 23793,
+  "verified": [
+    "lossless original text roundtrip",
+    "unchanged control tokens in translated records",
+    "all rebuilt records",
+    "REL only font and widths changed",
+    "Yaz0 encode/decode",
+    "final ISO FST files",
+    "BPS application and CRCs",
+    "32 KiB physical image alignment",
+    "32-byte-rounded ends of all FST files fit image",
+    "Dolphin reported read range 0x2076F80..0x2077360",
+    "v2 equals v1 byte-for-byte plus 3256 zero padding bytes"
+  ],
+  "not_verified": [
+    "Dolphin boot",
+    "Wii/Nintendont boot",
+    "in-game text layout",
+    "save compatibility"
+  ],
+  "original_unchanged": true,
+  "padding_bytes": 3256
+}

@@ -1,0 +1,158 @@
+[
+  {
+    "file": "message_data.bin",
+    "id": 1124,
+    "source": "Hrmm...⟦7F0306⟧ Uh...⟦7F0306⟧ Excuse me...⟦7F0308⟧\nDo you have a second?⟦7F04⟧\n⟦7F02⟧Could you help me out?⟦7F0308⟧\nIs it... ⟦7F0304⟧Let's see now...⟦7F0306⟧\n⟦7F21⟧:⟦7F22⟧ on⟦7F0310⟧ ⟦7F1F⟧,\n⟦7F1E⟧ ⟦7F20⟧, ⟦7F1D⟧?\n⟦7F1600250026⟧⟦7F04⟧⟦7F0D⟧⟦7F0F0465⟧⟦7F10047F⟧⟦7F19⟧\n⟦7F01⟧",
+    "russian": "Хм...⟦7F0306⟧ Эм...⟦7F0306⟧ Прости...⟦7F0308⟧\nЕсть минутка?⟦7F04⟧\n⟦7F02⟧Поможешь мне?⟦7F0308⟧\nСейчас... ⟦7F0304⟧Дай свериться...⟦7F0306⟧\n⟦7F21⟧:⟦7F22⟧,⟦7F0310⟧ ⟦7F1F⟧,\n⟦7F1E⟧ ⟦7F20⟧, ⟦7F1D⟧?\n⟦7F1600250026⟧⟦7F04⟧⟦7F0D⟧⟦7F0F0465⟧⟦7F10047F⟧⟦7F19⟧\n⟦7F01⟧"
+  },
+  {
+    "file": "message_data.bin",
+    "id": 1125,
+    "source": "Gee, thanks a million!⟦7F0308⟧\nYou're a lifesaver. No joke!⟦7F0308⟧\n⟦7F09000003⟧Mya ha ha ha ha howr!⟦7F04⟧\n⟦7F090000FF⟧\n⟦7F02⟧So, what do you say, friend?⟦7F030A⟧\nYou mind if I sit here?⟦7F1600170018⟧⟦7F04⟧⟦7F0D⟧⟦7F0F0466⟧⟦7F100467⟧⟦7F19⟧\n⟦7F01⟧",
+    "russian": "Огромное спасибо!⟦7F0308⟧\nВот это помощь! Серьёзно!⟦7F0308⟧\n⟦7F09000003⟧Мя-ха-ха-ха!⟦7F04⟧\n⟦7F090000FF⟧\n⟦7F02⟧Ну что, дружище?⟦7F030A⟧\nМожно сесть рядом?⟦7F1600170018⟧⟦7F04⟧⟦7F0D⟧⟦7F0F0466⟧⟦7F100467⟧⟦7F19⟧\n⟦7F01⟧"
+  },
+  {
+    "file": "message_data.bin",
+    "id": 1126,
+    "source": "Thanks again!⟦7F0308⟧ It sure is nice\nmeeting friendly folk on the\ntrain...⟦7F030F⟧ You aren't a psycho,\nright? ⟦7F0308⟧Just kidding!⟦7F04⟧\n⟦7F02⟧Say, by the way...⟦7F0306⟧\nwhat's your name?\n⟦7F09090001⟧\n⟦7F55⟧\n⟦7F01⟧",
+    "russian": "Ещё раз спасибо!⟦7F0308⟧ Приятно\nвстретить друга в поезде...⟦7F030F⟧\nТы ведь не какой-нибудь\nпсих? ⟦7F0308⟧Шучу, шучу!⟦7F04⟧\n⟦7F02⟧Кстати...⟦7F0306⟧\nКак тебя зовут?\n⟦7F09090001⟧\n⟦7F55⟧\n⟦7F01⟧"
+  },
+  {
+    "file": "message_data.bin",
+    "id": 1139,
+    "source": "Umm⟦7F0304⟧.⟦7F0304⟧.⟦7F0304⟧.⟦7F0306⟧ Mind if I sit here?⟦7F0308⟧\nIt's better to travel together,\nor so they say, right?⟦7F030A⟧\nI promise I'm not crazy!⟦7F1600170018⟧⟦7F04⟧⟦7F0D⟧⟦7F0F0466⟧⟦7F100467⟧⟦7F19⟧\n⟦7F01⟧",
+    "russian": "Эм⟦7F0304⟧.⟦7F0304⟧.⟦7F0304⟧.⟦7F0306⟧ Можно сесть рядом?⟦7F0308⟧\nВместе ехать веселее,\nправда ведь?⟦7F030A⟧\nЯ не псих, честно!⟦7F1600170018⟧⟦7F04⟧⟦7F0D⟧⟦7F0F0466⟧⟦7F100467⟧⟦7F19⟧\n⟦7F01⟧"
+  },
+  {
+    "file": "message_data.bin",
+    "id": 1151,
+    "source": "⟦7F09000002⟧⟦7F0308⟧Whaaat???⟦7F0308⟧ It's not?⟦7F04⟧\nThink you can straighten it\nout for me, or what?\n⟦7F09090001⟧\n⟦7F55⟧\n⟦7F01⟧",
+    "russian": "⟦7F09000002⟧⟦7F0308⟧Что-о-о?⟦7F0308⟧ Разве нет?⟦7F04⟧\nПоможешь мне выставить\nправильное время?\n⟦7F09090001⟧\n⟦7F55⟧\n⟦7F01⟧"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 3,
+    "source": "Yes.",
+    "russian": "Да."
+  },
+  {
+    "file": "select_data.bin",
+    "id": 4,
+    "source": "No.",
+    "russian": "Нет."
+  },
+  {
+    "file": "select_data.bin",
+    "id": 6,
+    "source": "Hello!",
+    "russian": "Привет!"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 7,
+    "source": "End",
+    "russian": "Закончить"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 8,
+    "source": "Continue",
+    "russian": "Продолжить"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 23,
+    "source": "Please!",
+    "russian": "Конечно!"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 24,
+    "source": "No way!",
+    "russian": "Ни за что!"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 25,
+    "source": "I'm moving.",
+    "russian": "Я переезжаю."
+  },
+  {
+    "file": "select_data.bin",
+    "id": 26,
+    "source": "What's it to ya?",
+    "russian": "Тебе-то что?"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 27,
+    "source": "Don't know yet.",
+    "russian": "Ещё не знаю."
+  },
+  {
+    "file": "select_data.bin",
+    "id": 28,
+    "source": "Leave me alone!",
+    "russian": "Отстань!"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 29,
+    "source": "Oh, yeah!",
+    "russian": "Ну да!"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 30,
+    "source": "Just a little...",
+    "russian": "Немного..."
+  },
+  {
+    "file": "select_data.bin",
+    "id": 31,
+    "source": "Isn't it cool?",
+    "russian": "Классное, да?"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 32,
+    "source": "Isn't it cute?",
+    "russian": "Милое, правда?"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 33,
+    "source": "You know it!",
+    "russian": "Ещё бы!"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 34,
+    "source": "I'm not a boy!",
+    "russian": "Я не мальчик!"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 35,
+    "source": "I forgive you.",
+    "russian": "Прощаю тебя."
+  },
+  {
+    "file": "select_data.bin",
+    "id": 36,
+    "source": "I'm not a girl!",
+    "russian": "Я не девочка!"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 37,
+    "source": "That's right!",
+    "russian": "Всё верно!"
+  },
+  {
+    "file": "select_data.bin",
+    "id": 38,
+    "source": "That's wrong!",
+    "russian": "Неверно!"
+  }
+]
