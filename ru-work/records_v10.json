@@ -1,0 +1,209 @@
+[
+ {
+  "file": "message_data.bin",
+  "id": 1124,
+  "pos": 23472973,
+  "slotlen": 170,
+  "applied": true,
+  "ru_text": "Хм...{T03}п Эм...{T03}п Прости...{T03}иÍЕсть минутка?{T04}Í{T02}Поможешь мне?{T03}иÍСейчас... {T03}зДай свериться...{T03}пÍ{T21}:{T22},{T03}к {T1F},Í{T1E} {T20}, {T1D}?Í{T16}%&{T04}{T0D}{T0F}зе{T10}з{T7F}ЮÍ{T01}"
+ },
+ {
+  "file": "message_data.bin",
+  "id": 1125,
+  "pos": 23473143,
+  "slotlen": 173,
+  "applied": true,
+  "ru_text": "Огромное спасибо!{T03}иÍВот это помощь! Серьёзно!{T03}иÍ{T09}БМя-ха-ха-ха!{T04}Í{T09}ÿÍ{T02}Ну что, дружище?{T03}ЫÍМожно сесть рядом?{T16}Ж\u0018{T04}{T0D}{T0F}зf{T10}зg{T19}Í{T01}"
+ },
+ {
+  "file": "message_data.bin",
+  "id": 1126,
+  "pos": 23473316,
+  "slotlen": 174,
+  "applied": true,
+  "ru_text": "Ещё раз спасибо!{T03}и ПриятноÍвстретить друга в поезде...{T03}тÍТы ведь не какой-нибудьÍпсих? {T03}иШучу, шучу!{T04}Í{T02}Кстати...{T03}пÍКак тебя зовут?Í{T09}ю\u0001Í{T55}Í{T01}"
+ },
+ {
+  "file": "message_data.bin",
+  "id": 1139,
+  "pos": 23477107,
+  "slotlen": 147,
+  "applied": true,
+  "ru_text": "Эм{T03}з.{T03}з.{T03}з.{T03}п Можно сесть рядом?{T03}иÍВместе ехать веселее,Íправда ведь?{T03}ЫÍЯ не псих, честно!{T16}Ж\u0018{T04}{T0D}{T0F}зf{T10}зg{T19}Í{T01}"
+ },
+ {
+  "file": "message_data.bin",
+  "id": 1151,
+  "pos": 23480494,
+  "slotlen": 93,
+  "applied": true,
+  "ru_text": "{T09}ж{T03}иЧто-о-о?{T03}и Разве нет?{T04}ÍПоможешь мне выставитьÍправильное время?Í{T09}ю\u0001Í{T55}Í{T01}"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 3,
+  "pos": 22514239,
+  "slotlen": 4,
+  "applied": true,
+  "ru_text": "Да."
+ },
+ {
+  "file": "select_data.bin",
+  "id": 4,
+  "pos": 998052,
+  "slotlen": 3,
+  "applied": true,
+  "ru_text": "Нет"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 6,
+  "pos": 22455488,
+  "slotlen": 6,
+  "applied": true,
+  "ru_text": "Привет"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 7,
+  "pos": 1020688,
+  "slotlen": 3,
+  "applied": false
+ },
+ {
+  "file": "select_data.bin",
+  "id": 8,
+  "pos": 11191961,
+  "slotlen": 8,
+  "applied": true,
+  "ru_text": "Далее"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 23,
+  "pos": 22592050,
+  "slotlen": 7,
+  "applied": true,
+  "ru_text": "Да!"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 24,
+  "pos": 22581599,
+  "slotlen": 7,
+  "applied": true,
+  "ru_text": "Нет!"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 25,
+  "pos": 22503193,
+  "slotlen": 11,
+  "applied": true,
+  "ru_text": "Позже..."
+ },
+ {
+  "file": "select_data.bin",
+  "id": 26,
+  "pos": 22677855,
+  "slotlen": 16,
+  "applied": true,
+  "ru_text": "Тебе-то что?"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 27,
+  "pos": 22677871,
+  "slotlen": 15,
+  "applied": true,
+  "ru_text": "Ещё не знаю."
+ },
+ {
+  "file": "select_data.bin",
+  "id": 28,
+  "pos": 22677886,
+  "slotlen": 15,
+  "applied": true,
+  "ru_text": "Отстань!"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 29,
+  "pos": 22581801,
+  "slotlen": 9,
+  "applied": true,
+  "ru_text": "Ну да!"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 30,
+  "pos": 22677910,
+  "slotlen": 16,
+  "applied": true,
+  "ru_text": "Немного..."
+ },
+ {
+  "file": "select_data.bin",
+  "id": 31,
+  "pos": 22677926,
+  "slotlen": 14,
+  "applied": true,
+  "ru_text": "Классное, да?"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 32,
+  "pos": 22677940,
+  "slotlen": 14,
+  "applied": true,
+  "ru_text": "Милое, правда?"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 33,
+  "pos": 22677954,
+  "slotlen": 12,
+  "applied": true,
+  "ru_text": "Ещё бы!"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 34,
+  "pos": 22677966,
+  "slotlen": 14,
+  "applied": true,
+  "ru_text": "Я не мальчик!"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 35,
+  "pos": 22650218,
+  "slotlen": 14,
+  "applied": true,
+  "ru_text": "Прощаю тебя."
+ },
+ {
+  "file": "select_data.bin",
+  "id": 36,
+  "pos": 22677994,
+  "slotlen": 15,
+  "applied": true,
+  "ru_text": "Я не девочка!"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 37,
+  "pos": 22678009,
+  "slotlen": 13,
+  "applied": true,
+  "ru_text": "Всё верно!"
+ },
+ {
+  "file": "select_data.bin",
+  "id": 38,
+  "pos": 22678022,
+  "slotlen": 13,
+  "applied": true,
+  "ru_text": "Неверно!"
+ }
+]
